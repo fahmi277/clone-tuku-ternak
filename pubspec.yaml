@@ -39,9 +39,8 @@ dependencies:
   google_fonts: ^2.1.0
   supabase: ^0.2.9
   get:
-  sizer: ^2.0.15
-  dots_indicator: ^2.0.0
-
+  flutter_screenutil: ^5.0.1
+  font_awesome_flutter:
 dev_dependencies:
   flutter_test:
     sdk: flutter

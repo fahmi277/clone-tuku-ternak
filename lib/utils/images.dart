@@ -20,4 +20,11 @@ class ImageData {
   static const String ph = "assets/images/ph.png";
   static const String ind = "assets/images/in.png";
   static const String sg = "assets/images/sg.png";
+  static const String hand = "assets/images/hand.png";
+  static const String medicine = "assets/images/medicine.png";
+  static const String cattle = "assets/images/cattle.png";
+  static const String leaf = "assets/images/leaf.png";
+  static const String dedak1 = "assets/images/dedak.png";
+  static const String comfeed = "assets/images/comfeed.png";
+  static const String maggotkering = "assets/images/maggotkering.jpg";
 }
